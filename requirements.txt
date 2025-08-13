@@ -1,0 +1,2 @@
+# Basic Python project - no external dependencies required
+
